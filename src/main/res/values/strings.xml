@@ -4,6 +4,6 @@
     <string name="my_alarms">My Remainder</string>
     <string name="textview">TextView</string>
     <string name="long_press_on_map_to_set_remainder"> Long Press on map to set Remainder</string>
-    <string name="api_key">AIzaSyBehLvB0BMpi4F0KoCPbmYVDffU5abTBcU</string>
+    <string name="api_key">YOUR_API_KEY_HERE</string>
    
 </resources>
